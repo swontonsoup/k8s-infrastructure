@@ -1,0 +1,11 @@
+{
+  "appName": "hello-world",
+  "userGivenName": "hello-world",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/hello-world/overlays/k8s-infrastructure",
+  "srcRepoURL": "https://github.com/swontonsoup/k8s-infrastructure.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
